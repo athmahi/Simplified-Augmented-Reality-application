@@ -1,5 +1,5 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
+//  SCCB_Interface.v - stores the config parameter for the camera
+//  Author:         Written by Maxwell used with permission
 
 
 module SCCB_interface
